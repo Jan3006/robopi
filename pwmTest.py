@@ -1,3 +1,4 @@
+#Gibt pwm auf Pin 13 aus per Konsole wählbar
 import time
 #import RPi.GPIO as GPIO
 import pigpio
